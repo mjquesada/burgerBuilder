@@ -97,7 +97,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Updating to New Releases
 
-Create React App is divided into two packages:
+Create React App is divided into two packages: 
 
 * `create-react-app` is a global command-line utility that you use to create new projects.
 * `react-scripts` is a development dependency in the generated projects (including this one).
@@ -463,7 +463,7 @@ If you are using React Router check out [this tutorial](http://serverless-stack.
 
 ## Adding a Stylesheet
 
-This project setup uses [Webpack](https://webpack.js.org/) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
+This project setup uses [Webpack](https://webpack.js.org/) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a Hello CSS file, you need to **import the CSS from the JavaScript file**:
 
 ### `Button.css`
 
